@@ -1,6 +1,6 @@
-# Código de Conduta do Evento Python Brasil
+# Código de Conduta do Evento Pyjamas
 
-O evento Python Brasil é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+O evento Pyjamas é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
 
@@ -24,9 +24,9 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 
 ---
 
-# Python Brasil Code of Conduct
+# Pyjamas Code of Conduct
 
-Python Brasil conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
+Pyjamas conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
 
 Conference organizers offer a Response Team acting in order to guarantee such an environment.
 
@@ -49,9 +49,9 @@ In face of any allegation of violation of these principles, the Response Team wi
 
 ---
 
-# Código de Conducta del Evento Python Brasil
+# Código de Conducta del Evento Pyjamas
 
-El evento Python Brasil es un ambiente amistoso, de buena convivencia, inclusivo y libre de intimidación, donde todas las personas son bienvenidas y la civilidad es exigida.
+El evento Pyjamas es un ambiente amistoso, de buena convivencia, inclusivo y libre de intimidación, donde todas las personas son bienvenidas y la civilidad es exigida.
 
 Con esta finalidad, la organización del evento cuenta con un Equipo de Respuesta que actúa para garantizar un ambiente con esas cualidades.
 
